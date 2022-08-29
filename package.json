@@ -1,0 +1,23 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianaacarvalho/NodeRestAPI.git"
+  },
+  "author": "arianaacarvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianaacarvalho/NodeRestAPI/issues"
+  },
+  "homepage": "https://github.com/arianaacarvalho/NodeRestAPI#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
